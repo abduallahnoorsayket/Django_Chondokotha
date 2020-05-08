@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47a2f581-11f6-4888-9cc0-1aad78fbf46a" name="Default Changelist" comment="" />
+    <list default="true" id="47a2f581-11f6-4888-9cc0-1aad78fbf46a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="100">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -226,7 +228,7 @@
       <workItem from="1584853370518" duration="2386000" />
       <workItem from="1584874481328" duration="4145000" />
       <workItem from="1586941372862" duration="2137000" />
-      <workItem from="1588932298611" duration="259000" />
+      <workItem from="1588932298611" duration="1073000" />
     </task>
     <task id="LOCAL-00001" summary="&quot; The latest commit &quot;">
       <created>1588932488625</created>
@@ -235,11 +237,18 @@
       <option name="project" value="LOCAL" />
       <updated>1588932488625</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot; The latest commit &quot;">
+      <created>1588932690656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588932690656</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28870000" />
+    <option name="totallyTimeSpent" value="29684000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -252,8 +261,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15496184" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19160305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -267,14 +277,14 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32947975" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4984733" visible="true" weight="0.51365185" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4984733" visible="true" weight="0.37372014" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5015267" side_tool="true" weight="0.20819113" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32935154" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.14885496" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.090076335" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,8 +381,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        <state relative-caret-position="100">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
